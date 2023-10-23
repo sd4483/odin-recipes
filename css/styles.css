@@ -3,7 +3,7 @@ body {
     border: 4px rgb(166, 80, 26);
     border-style: double;
     font-family: Arial, Helvetica, sans-serif;
-    margin: 0 auto;
+    margin: 10px auto;
     box-sizing: border-box;
 }
 
