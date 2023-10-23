@@ -16,7 +16,7 @@ body {
 .featured-image {
     border: 1px solid black;
     padding: 2px;
-    width: 90%;
+    width: 600px;
     height: auto;
     display: block;
     margin: 0 auto;
