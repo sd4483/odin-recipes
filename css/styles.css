@@ -19,6 +19,12 @@ body {
     margin: 0 auto;
 }
 
+figcaption {
+    text-align: center;
+    font-style: italic;
+    padding-top: 5px;
+}
+
 .main-heading {
     text-align: center;
     text-transform: uppercase;
