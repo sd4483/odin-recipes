@@ -1,9 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
-    width: 100%;
+    width: min(100%, 800px);
     font-family: Arial, Helvetica, sans-serif;
     margin: 0 auto;
     padding: 10px;
-    box-sizing: border-box;
+    font-size: 18px;
 }
 
 .content {
@@ -16,7 +20,7 @@ body {
 .featured-image {
     border: 1px solid black;
     padding: 2px;
-    width: 600px;
+    width: min(100%, 500px);
     height: auto;
     display: block;
     margin: 0 auto;
